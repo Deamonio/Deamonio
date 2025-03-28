@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8o&height=200&section=header&text=Hexaive🫧&fontSize=90&animation=fadeIn&stroke=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:EEFF00,100:a82da8o&height=200&section=header&text=Hexaive🫧&fontSize=90&animation=fadeIn&stroke=FFFFFF)
 ## 🚀 About Me
 
 I'm a passionate software engineer focusing on AI and Web Development. I love building innovative solutions and connecting with other developers.
