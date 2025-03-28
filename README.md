@@ -16,6 +16,7 @@ We create an ecosystem where developers and technology **work in sync**.
 What we build isn’t just software—it’s the **foundation of the future**.  
 And what we connect isn’t just data—it’s **people, ideas, and possibilities**.
 
+![details](Brand_Story.md)
 
 ## 🛠️ Current Focus
 
