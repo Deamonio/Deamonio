@@ -3,7 +3,7 @@
 
 I'm a passionate software engineer focusing on AI and Web Development. I love building innovative solutions and connecting with other developers.
 
-# Hexaive Brand Story
+## 🫧 Hexaive Brand Story
 
 The world is built on countless codes. At Hexaive, we connect these intricate pieces to create one seamless, intelligent system.
 
