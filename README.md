@@ -3,6 +3,20 @@
 
 I'm a passionate software engineer focusing on AI and Web Development. I love building innovative solutions and connecting with other developers.
 
+# Hexaive Brand Story
+
+The world is built on countless codes. At Hexaive, we connect these intricate pieces to create one seamless, intelligent system.
+
+**Hexaive** is a brand born from the harmony of **hexagons** and **hives**. The hexagon—nature’s most efficient shape—symbolizes structure and stability, while the hive represents collaboration and purpose. By combining these two ideas, we embrace a vision of **connecting every code to build a better future**.
+
+At Hexaive, we go beyond just writing code.  
+We give meaning to every line.  
+We create an ecosystem where developers and technology **work in sync**.
+
+What we build isn’t just software—it’s the **foundation of the future**.  
+And what we connect isn’t just data—it’s **people, ideas, and possibilities**.
+
+
 ## 🛠️ Current Focus
 
 - 🔭 Actively developing: [Gizmo: A Raising College student Game](https://github.com/hexagon-bh/Gizmo)
