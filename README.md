@@ -3,6 +3,7 @@
 <p align="center">
   <img src="banner.PNG" alt="Hexaive banner" width="100%">
 </p>
+
 ## 🚀 About Me
 
 I'm a passionate software engineer focusing on AI and Web Development. I love building innovative solutions and connecting with other developers.
