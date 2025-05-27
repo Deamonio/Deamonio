@@ -4,11 +4,6 @@
   <img src="banner.PNG" alt="Hexaive banner" width="100%">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=hexaive&icon=0&color=8)](https://visitcount.itsvg.in)
-![Static Badge](https://img.shields.io/badge/NAME-Kim%20Kang%20Hyun-blue?style=flat)
-![Static Badge](https://img.shields.io/badge/Mail-hexaive%40gmail.com-yellow?style=flat)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hexaive.hexaive)
-
 ## 🚀 About Me
 
 I'm a passionate software engineer focusing on AI and Web Development. I love building innovative solutions and connecting with other developers.
@@ -63,4 +58,9 @@ And what we connect isn’t just data—it’s **people, ideas, and possibilitie
 ![](https://github-contributor-stats.vercel.app/api?username=hexaive&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=hexaive&icon=0&color=8)](https://visitcount.itsvg.in)
+![Static Badge](https://img.shields.io/badge/NAME-Kim%20Kang%20Hyun-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/Mail-hexaive%40gmail.com-yellow?style=flat)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hexaive.hexaive)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
