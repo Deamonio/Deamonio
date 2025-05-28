@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=blur&color=0:EEFF00,100:a82da8o&height=200&section=header&text=Hexaive🫧&fontSize=90&animation=fadeIn&stroke=FFFFFF) -->
 
 <p align="center">
-  <img src="banner2.PNG" alt="Hexaive banner" width="100%">
+  <img src="banner3.PNG" alt="Hexaive banner" width="100%">
 </p>
 
 ## 🚀 About Me
