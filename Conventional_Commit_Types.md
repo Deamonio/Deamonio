@@ -1,4 +1,4 @@
-# Conventional Commit Types
+# ⚡Conventional Commit Types
 
 이 문서는 Git 커밋 메시지 작성 시 사용하는 대표적인 타입(type)들의 의미와 사용 예시를 정리한 가이드입니다. 각 타입은 커밋의 목적을 명확하게 구분하여 프로젝트 유지보수와 협업을 더욱 원활하게 만들어줍니다.
 
