@@ -8,7 +8,7 @@
 
 I'm a passionate software engineer focusing on AI and Web Development. I love building innovative solutions and connecting with other developers.
 
-## OBiE — “One step off, one step ahead.”
+## 🫧 OBiE — “One step off, one step ahead.”
 
 OBiE is a brand inspired by the classic programming hiccup: the off-by-one error. That tiny one-step difference — just a single misplaced line — sparks a creative twist that lets us see the world differently. It’s a reminder that perfection isn’t everything, and sometimes stepping just slightly off the beaten path is what makes us truly unique and opens up new possibilities.
 
