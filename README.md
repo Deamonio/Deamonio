@@ -8,19 +8,11 @@
 
 I'm a passionate software engineer focusing on AI and Web Development. I love building innovative solutions and connecting with other developers.
 
-## 🫧 Hexaive Brand Story
+## OBiE — “One step off, one step ahead.”
 
-The world is built on countless codes. At Hexaive, we connect these intricate pieces to create one seamless, intelligent system.
+OBiE is a brand inspired by the classic programming hiccup: the off-by-one error. That tiny one-step difference — just a single misplaced line — sparks a creative twist that lets us see the world differently. It’s a reminder that perfection isn’t everything, and sometimes stepping just slightly off the beaten path is what makes us truly unique and opens up new possibilities.
 
-**Hexaive** is a brand born from the harmony of **hexagons** and **hives**. The hexagon—nature’s most efficient shape—symbolizes structure and stability, while the hive represents collaboration and purpose. By combining these two ideas, we embrace a vision of **connecting every code to build a better future**.
-
-At Hexaive, we go beyond just writing code.  
-We give meaning to every line.  
-We create an ecosystem where developers and technology **work in sync**.
-
-What we build isn’t just software—it’s the **foundation of the future**.  
-And what we connect isn’t just data—it’s **people, ideas, and possibilities**.
-
+We don’t fear mistakes or differences — we embrace and celebrate them. From these so-called “errors,” we find new ideas and opportunities. OBiE represents the spirit of developers who aren’t afraid to be one step off, because that’s often the first step toward innovation and progress.
 [details](/Brand_Story.md)
 
 ## 🛠️ Current Focus
