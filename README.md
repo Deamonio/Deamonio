@@ -22,9 +22,9 @@ We don’t fear mistakes or differences — we embrace and celebrate them. From 
 
 ## 🤝 Past Projects & Collaboration
 
-- 👯 Worked with [Geekble](https://www.youtube.com/%EA%B8%B1%EB%B8%94Geekble) on [Glaisser](https://github.com/offby1e/Glaisser)
-- 🤖 [Dennis Hong](https://www.romela.org/)'s <RoMeLa와 함께하는 "동행 로봇 발명 워크숍"> on [Fire CANNON](https://github.com/offby1e/Fire-CANON)
-- 🎥 Works aired on KBS's <[스카우트 4.0](https://program.kbs.co.kr/1tv/culture/ajobter/pc/index.html)> on [AI-VIWAD](https://github.com/offby1e/AI-VIWAD)
+- 👯 Worked with [Geekble](https://www.youtube.com/%EA%B8%B1%EB%B8%94Geekble) on 🔗[Glaisser](https://github.com/offby1e/Glaisser)
+- 🤖 [Dennis Hong](https://www.romela.org/)'s <RoMeLa와 함께하는 "동행 로봇 발명 워크숍"> on 🔗[Fire CANNON](https://github.com/offby1e/Fire-CANON)
+- 🎥 Works aired on KBS's <[스카우트 4.0](https://program.kbs.co.kr/1tv/culture/ajobter/pc/index.html)> on 🔗[AI-VIWAD](https://github.com/offby1e/AI-VIWAD)
 
 ## ✨ Key Contributions
 
