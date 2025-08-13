@@ -53,7 +53,5 @@ We don’t fear mistakes or differences — we embrace and celebrate them. From 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=hexaive&icon=0&color=8)](https://visitcount.itsvg.in)
-![Static Badge](https://img.shields.io/badge/NAME-Kim%20Kang%20Hyun-blue?style=flat)
-![Static Badge](https://img.shields.io/badge/Mail-hexaive%40gmail.com-yellow?style=flat)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hexaive.hexaive)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
