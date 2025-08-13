@@ -17,12 +17,12 @@ We don’t fear mistakes or differences — we embrace and celebrate them. From 
 
 ## 🛠️ Current Focus
 
-- 🔭 Actively developing: [Gizmo: A Raising College student Game](https://github.com/hexagon-bh/Gizmo)
+- 🔭 Actively developing: [Playground.O : My Portfolio Web](https://github.com/offby1e/offby1e_Server)
 - 🌱 Currently learning: **Web Development (JS, Node.js)** & **OOP Study**
 
 ## 🤝 Past Projects & Collaboration
 
-- 👯 Worked with Geekble on [Glaisser](https://github.com/rkdgus0810/2023_Geekble_Project-Glaisser)
+- 👯 Worked with Geekble on [Glaisser](https://github.com/offby1eGlaisser)
 
 
 ## ✨ Key Contributions
