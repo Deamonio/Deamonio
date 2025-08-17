@@ -6,7 +6,7 @@
 
 👋 **Welcome to `offby1e`**
 
-`offby1e`는 "off by one error"에서 영감을 받은 브랜드입니다. 코드에서 발생하는 사소한 실수가 때로는 예상치 못한 결과로 이어지듯, 우리는 이 작은 차이가 혁신의 열쇠가 된다고 믿습니다. 저희의 미션은 오류에 대한 인식을 실패가 아닌, 배움과 창의성, 그리고 새로운 시작의 기회로 바꾸는 것입니다.
+`offby1e` is a brand inspired by the "off by one error"—a tiny mistake that often leads to unexpected outcomes in code. 🐛 We believe this one-digit difference holds the key to innovation. Our mission is to transform the perception of errors from failures into opportunities for learning, creativity, and new beginnings. ✨
 
 > **Our Slogan: One step off, one step ahead.**
 
@@ -14,32 +14,40 @@
 
 ### 🚀 **About Me**
 
-안녕하세요! 저는 AI와 웹 개발을 주로 다루는 열정적인 소프트웨어 엔지니어입니다. 혁신적인 솔루션을 구축하고 다른 개발자들과 교류하는 것을 즐깁니다. 이 공간은 저의 프로젝트 허브이자, 작은 실수 하나가 위대한 발견으로 이어질 수 있다는 저의 철학을 담고 있습니다.
+Hello! I am a passionate software engineer focusing on AI and Web Development. I love building innovative solutions and connecting with other developers. This space is a hub for my projects and a testament to my philosophy that a single mistake can lead to a great discovery.
 
 ---
 
 ### ✨ **Our Core Philosophy**
 
-저희는 다음 가치를 바탕으로 커뮤니티와 브랜드를 구축해 나갑니다.
+We are committed to building a community and a brand that champions the following values:
 
-* **Embrace the 'Error'** 🐞: 모든 버그를 소중한 교훈으로 여깁니다. `offby1e`는 디버깅과 문제 해결 과정을 즐거움과 성장의 원천으로 삼습니다. 오류를 기꺼이 받아들이는 자세야말로 한 단계 더 나아가는 첫걸음입니다.
-* **Code Meets Art** 👩‍💻🖼️: 기술의 기능성과 창의적인 디자인 사이의 간극을 잇습니다. 우리의 프로젝트와 제품은 논리적으로 견고하면서도 심미적으로 아름답도록 제작되어, 코드가 예술의 한 형태임을 증명합니다.
-* **Open Exploration** 🗺️: 우리는 끊임없이 탐구합니다. 이 레포지토리는 오픈 소스 프로젝트의 허브이자, 우리의 발견을 공유하고 커뮤니티와 함께 배우고 성장하는 공간이 될 것입니다.
+* **Embrace the 'Error'** 🐞: We see every bug as a valuable lesson. `offby1e` celebrates the process of debugging and problem-solving, turning frustration into a source of growth and deeper understanding. This willingness to embrace errors is the first step to getting ahead. 💡
+* **Code Meets Art** 👩‍💻🖼️: We bridge the gap between technical functionality and creative design. Our projects and products are crafted to be both logically sound and aesthetically pleasing, proving that code can be a form of art. 🖌️
+* **Open Exploration** 🗺️: We are endlessly curious. This repository serves as a hub for our open-source projects, a platform to share our discoveries, and a place where we can learn and grow together with the community. 🚀
 
 ---
 
 ### 🛠️ **Current Focus**
 
-- 🔭 **현재 개발 중:** [**Playground.O : My Portfolio Web**](https://github.com/offby1e/offby1e_Server)
-- 🌱 **새롭게 학습 중:** **Web Development (JS, Node.js)** & **OOP**
+- 🔭 **Actively developing:** [**Playground.O : My Portfolio Web**](https://github.com/offby1e/offby1e_Server)
+- 🌱 **Currently learning:** **Web Development (JS, Node.js)** & **OOP**
+
+---
+
+### 🎯 **My Future Goals**
+
+- To contribute to a major open-source project.
+- To publish a technical blog series on AI and web development.
+- To master new technologies like React and Go.
 
 ---
 
 ### 🤝 **Past Projects & Collaboration**
 
-- 👯 **Geekble**과 함께 🔗 [**Glaisser**](https://github.com/offby1e/Glaisser) 프로젝트 참여
-- 🤖 데니스 홍 교수님의 <RoMeLa와 함께하는 "동행 로봇 발명 워크숍"> 프로젝트 🔗 [**Fire CANNON**](https://github.com/offby1e/Fire-CANON) 개발 참여
-- 🎥 KBS <[**스카우트 4.0**](https://program.kbs.co.kr/1tv/culture/ajobter/pc/index.html)> 방영작 🔗 [**AI-VIWAD**](https://github.com/offby1e/AI-VIWAD) 개발
+- 👯 **Worked with [Geekble](http://googleusercontent.com/youtube.com/3)** on 🔗 [**Glaisser**](https://github.com/offby1e/Glaisser)
+- 🤖 **Contributed to Dr. Dennis Hong's <RoMeLa with "Accompanying Robot Invention Workshop">** on 🔗 [**Fire CANNON**](https://github.com/offby1e/Fire-CANON)
+- 🎥 **Works aired on KBS's <[Scout 4.0](https://program.kbs.co.kr/1tv/culture/ajobter/pc/index.html)>** on 🔗 [**AI-VIWAD**](https://github.com/offby1e/AI-VIWAD)
 
 ---
 
@@ -52,6 +60,15 @@
 
 ---
 
+### 📧 **Let's Connect!**
+
+Feel free to reach out for collaboration or just to say hi!
+
+- **Email:** `your-email@example.com` (Replace with your actual email)
+- **LinkedIn:** `[Your LinkedIn Profile](https://linkedin.com/in/yourprofile)` (Replace with your actual LinkedIn URL)
+
+---
+
 ### 🫧 **Socials**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/offby1e) 
@@ -60,7 +77,7 @@
 
 ### ⚡ **Tech Stack**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
