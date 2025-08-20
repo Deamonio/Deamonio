@@ -64,7 +64,7 @@ We are committed to building a community and a brand that champions the followin
 
 Feel free to reach out for collaboration or just to say hi!
 
-- **Email:** `your-email@example.com` (Replace with your actual email)
+- **Email:** `offby1e@gmail.com`
 - **LinkedIn:** `[Your LinkedIn Profile](https://linkedin.com/in/yourprofile)` (Replace with your actual LinkedIn URL)
 
 ---
