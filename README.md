@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Preview.PNG" alt="Lurkers Daemon banner" width="100%">
+  <img src="IMG_2051.jpeg" alt="Lurkers Daemon banner" width="100%">
 </p>
 
 # 👀 Lurkers Daemon  
